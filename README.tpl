@@ -3,14 +3,14 @@
 
 # pagemap-rs
 
-[![Crates.io](https://img.shields.io/crates/v/pagemap.svg)](https://crates.io/crates/pagemap)
-[![docs.rs](https://docs.rs/pagemap/badge.svg)](https://docs.rs/pagemap)
-[![GitHub License](https://img.shields.io/github/license/ckatsak/pagemap-rs?style=flat)](LICENSE)
-[![deps.rs](https://deps.rs/repo/github/ckatsak/pagemap-rs/status.svg)](https://deps.rs/repo/github/ckatsak/pagemap-rs)
-[![Build Status](https://travis-ci.com/ckatsak/pagemap-rs.svg?branch=main)](https://travis-ci.com/ckatsak/pagemap-rs)
-[![GitHub Workflow Status](https://github.com/ckatsak/pagemap-rs/actions/workflows/basic.yml/badge.svg?branch=main)](https://github.com/ckatsak/pagemap-rs/actions/workflows/basic.yml)
-<!--[![Travis (.com) branch](https://img.shields.io/travis/com/ckatsak/pagemap-rs/main)](https://travis-ci.com/ckatsak/pagemap-rs)-->
-<!--[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ckatsak/pagemap-rs/basic.yml)](https://github.com/ckatsak/pagemap-rs/actions/workflows/basic.yml)-->
+[![Crates.io](https://img.shields.io/crates/v/pagemap2.svg)](https://crates.io/crates/pagemap2)
+[![docs.rs](https://docs.rs/pagemap2/badge.svg)](https://docs.rs/pagemap2)
+[![GitHub License](https://img.shields.io/github/license/seasox/pagemap-rs?style=flat)](LICENSE)
+[![deps.rs](https://deps.rs/repo/github/seasox/pagemap-rs/status.svg)](https://deps.rs/repo/github/seasox/pagemap-rs)
+[![Build Status](https://travis-ci.com/seasox/pagemap-rs.svg?branch=main)](https://travis-ci.com/seasox/pagemap-rs)
+[![GitHub Workflow Status](https://github.com/seasox/pagemap-rs/actions/workflows/basic.yml/badge.svg?branch=main)](https://github.com/seasox/pagemap-rs/actions/workflows/basic.yml)
+<!--[![Travis (.com) branch](https://img.shields.io/travis/com/seasox/pagemap-rs/main)](https://travis-ci.com/seasox/pagemap-rs)-->
+<!--[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/seasox/pagemap-rs/basic.yml)](https://github.com/seasox/pagemap-rs/actions/workflows/basic.yml)-->
 
 {{readme}}
 

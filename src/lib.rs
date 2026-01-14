@@ -1,3 +1,5 @@
+//! FORK of the pagemap crate, incoporating changes made after its v0.1 release.
+//!
 //! A crate to provide a simple API to Linux kernel's
 //! [pagemap API](https://www.kernel.org/doc/Documentation/vm/pagemap.txt).
 
