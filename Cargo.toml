@@ -1,10 +1,10 @@
 [package]
-name = "pagemap"
+name = "pagemap2"
 version = "0.1.0" # remember to update html_root_url
 authors = ["Christos Katsakioris <ckatsak@gmail.com>"]
 license = "Apache-2.0"
 description = "A crate to provide a simple API to Linux kernel's pagemap API."
-repository = "https://github.com/ckatsak/pagemap-rs"
+repository = "https://github.com/seasox/pagemap-rs"
 readme = "README.md"
 edition = "2018"
 keywords = ["linux"]
